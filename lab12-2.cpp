@@ -55,6 +55,7 @@ void checkWinner(int p, int y){
 	cout << "\n---------------------------------\n";
 }
 
+
 int main(){
 	srand(time(0));
 
